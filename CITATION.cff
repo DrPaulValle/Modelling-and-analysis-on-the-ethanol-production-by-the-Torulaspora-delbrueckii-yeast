@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Saccharomyces cerevisiae modelling and nonlinear regression with normalized data
+title: Modelling and analysis on the ethanol production by the Torulaspora delbrueckii yeast
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -16,10 +16,10 @@ authors:
 identifiers:
   - type: url
     value: >-
-      https://github.com/DrPaulValle/Saccharomyces-cerevisiae-modelling-and-nonlinear-regression-with-normalized-data
+      https://github.com/DrPaulValle/Modelling-and-analysis-on-the-ethanol-production-by-the-Torulaspora-delbrueckii-yeast
     description: GitHub Repository
 keywords:
-  - Saccharomyces cerevisiae
+  - Torulaspora delbrueckii
   - Biomathematics
   - Biostatistics
   - Experimental data
@@ -28,4 +28,4 @@ keywords:
   - Nonlinear regression
   - Ordinary differential equations
 license: BSD-2-Clause
-date-released: '2024-07-29'
+date-released: '2024-09-09'
