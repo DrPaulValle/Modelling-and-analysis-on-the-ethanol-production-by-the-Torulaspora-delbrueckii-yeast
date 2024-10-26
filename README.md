@@ -4,8 +4,9 @@
 
 # Abstract
 This work presents two mechanistic models composed of first-order nonlinear Ordinary Differential Equations (ODEs). These systems describe the evolution of alcoholic fermentation (ethanol production) by Torulaspora delbrueckii yeast when glucose and fructose are used as substrates. The set of ODEs was fitted to three sets of experimental data for the concentration (in g/L per hour) of glucose [x(t)], fructose [y(t)], and ethanol [z(t)]. The parameter values for each equation were estimated using a computational algorithm for nonlinear regression through least squares with a 95% confidence interval to determine if the obtained values were statistically significant. The fitting ability of the models to reproduce experimental data was also assessed using the coefficient of determination (R2) and the Akaike Information Criterion (AIC). Additionally, numerical simulations were employed to illustrate the analysis results and predict ethanol concentration after the 72 hours during which the experimental data were recorded. Furthermore, the asymptotic stability of each formulated system was analyzed using the Lyapunov stability theory, and its global dynamics were explored through the method of Localizing Compact Invariant Sets.
-Keywords: Alcoholic fermentation; Biostatistics; Dynamical systems; Experimental data; 
-In- silico experimentation.
+
+# Keywords
+Alcoholic fermentation; Biostatistics; Dynamical systems; Experimental data; In- silico experimentation.
 
 # Acknowledgements
 This research was fulfilled within the TecNM projects “Estrategias in silico integradas con biomatemáticas y sistemas dinámicos no lineales para el modelizado, análisis y control de sistemas biológicos [19377.24-P]”, “Modelizado de sistemas no lineales para procesos de fermentación basados en la dinámica de crecimiento de microorganismos: parte 2 [19805.24-P]”, the academic research group Project “Sistemas dinámicos no lineales” ITIJ-CA-10, and the RICCA “Red Internacional de Control y Cómputo Aplicados”.
